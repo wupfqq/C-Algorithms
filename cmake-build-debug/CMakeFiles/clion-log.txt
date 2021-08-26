@@ -1,0 +1,4 @@
+/home/dinozavrik/Загрузки/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/dinozavrik/CLionProjects/C++Algorithms
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dinozavrik/CLionProjects/C++Algorithms/cmake-build-debug
